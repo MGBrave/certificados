@@ -49,9 +49,9 @@
 22. [Criando seu primeiro Repositório](https://github.com/martageraldo/certificados/blob/main/certificados/Crianco%seu%primeiro%Repositório.pdf)
 
 23. [Introdução ao Ecossistema e Documentação Java](https://github.com/martageraldo/certificados/blob/main/certificados/IntroducaoAoEcossistemaEDocumentacaoJava.pdf)
-24. [Variáveis, Tipos de Dados e Operadores Matemáticos em Java]
-25. [Configurando Ambiente de Desenvolvimento Java no Linux]
-26. [Introdução ao Ecossistema e Documentação Java]
+24. [Variáveis, Tipos de Dados e Operadores Matemáticos em Java](https://github.com/martageraldo/certificados/blob/main/certificados/Vari%C3%A1veis%2C%20Tipos%20de%20Dados%20e%20Operadores%20matem%C3%A1ticos%20em%20java.pdf)
+25. [Configurando Ambiente de Desenvolvimento Java no Linux](https://github.com/martageraldo/certificados/blob/main/certificados/ConfAmbDedesJavaNoLinux.pdf)
+26. [Introdução ao Ecossistema e Documentação Java](https://github.com/martageraldo/certificados/blob/main/certificados/IntroducaoAoEcossistemaEDocumentacaoJava.pdf)
 
 
 
@@ -64,7 +64,7 @@
 1. [Jogo da Cobrinha](https://github.com/martageraldo/certificados/blob/main/certificados/jogodacobrinhaDio.pdf)
 2. [Jogo da Velha](https://github.com/martageraldo/certificados/blob/main/certificados/jogoDaVelha.pdf)
 3. [Recriando a página do Instagram](https://github.com/martageraldo/certificados/blob/main/certificados/recriando%página%do%instagram.pdf)
-4. [Resolvendo desafios de Código em Java]
+4. [Resolvendo desafios de Código em Java](https://github.com/martageraldo/certificados/blob/main/certificados/resolvendoDesafiosDeCodigoEmJava.pdf)
 
 
 
