@@ -52,10 +52,14 @@
 24. [Variáveis, Tipos de Dados e Operadores Matemáticos em Java](https://github.com/martageraldo/certificados/blob/main/certificados/Vari%C3%A1veis%2C%20Tipos%20de%20Dados%20e%20Operadores%20matem%C3%A1ticos%20em%20java.pdf)
 25. [Configurando Ambiente de Desenvolvimento Java no Linux](https://github.com/martageraldo/certificados/blob/main/certificados/ConfAmbDedesJavaNoLinux.pdf)
 26. [Introdução ao Ecossistema e Documentação Java](https://github.com/martageraldo/certificados/blob/main/certificados/IntroducaoAoEcossistemaEDocumentacaoJava.pdf)
+27. [Linux: A introdução ao sistema operacional](https://github.com/martageraldo/certificados/blob/main/certificados/Linux%20A%20introdu%C3%A7%C3%A3o%20ao%20sistema%20operacional.pdf)
 
 
 
     
+
+
+
 
     
 
