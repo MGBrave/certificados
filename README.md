@@ -53,6 +53,7 @@
 25. [Configurando Ambiente de Desenvolvimento Java no Linux](https://github.com/martageraldo/certificados/blob/main/certificados/ConfAmbDedesJavaNoLinux.pdf)
 26. [Introdução ao Ecossistema e Documentação Java](https://github.com/martageraldo/certificados/blob/main/certificados/IntroducaoAoEcossistemaEDocumentacaoJava.pdf)
 27. [Linux: A introdução ao sistema operacional](https://github.com/martageraldo/certificados/blob/main/certificados/Linux%20A%20introdu%C3%A7%C3%A3o%20ao%20sistema%20operacional.pdf)
+28. [Lógica Condicional e Controle de Fluxos em Java](https://github.com/martageraldo/certificados/blob/main/certificados/Logica%20Condicional%20e%20controle%20de%20fluxos%20em%20Java.pdf)
 
 
 
