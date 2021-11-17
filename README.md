@@ -55,6 +55,7 @@
 27. [Linux: A introdução ao sistema operacional](https://github.com/martageraldo/certificados/blob/main/certificados/Linux%20A%20introdu%C3%A7%C3%A3o%20ao%20sistema%20operacional.pdf)
 28. [Lógica Condicional e Controle de Fluxos em Java](https://github.com/martageraldo/certificados/blob/main/certificados/Logica%20Condicional%20e%20controle%20de%20fluxos%20em%20Java.pdf)
 29. [Estruturas de repetição e Arrays em Java](https://github.com/martageraldo/certificados/blob/main/certificados/Estruturas%20de%20Repeti%C3%A7%C3%A3o%20de%20Arrays%20e%20loops.pdf)
+30. [Reforçando o conceito de laços em Java](https://github.com/martageraldo/certificados/blob/main/certificados/Refor%C3%A7ando%20o%20conceito%20de%20la%C3%A7os%20em%20java.pdf)
 
 
 
