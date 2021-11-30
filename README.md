@@ -56,6 +56,10 @@
 28. [Lógica Condicional e Controle de Fluxos em Java](https://github.com/martageraldo/certificados/blob/main/certificados/Logica%20Condicional%20e%20controle%20de%20fluxos%20em%20Java.pdf)
 29. [Estruturas de repetição e Arrays em Java](https://github.com/martageraldo/certificados/blob/main/certificados/Estruturas%20de%20Repeti%C3%A7%C3%A3o%20de%20Arrays%20e%20loops.pdf)
 30. [Reforçando o conceito de laços em Java](https://github.com/martageraldo/certificados/blob/main/certificados/Refor%C3%A7ando%20o%20conceito%20de%20la%C3%A7os%20em%20java.pdf)
+31. [Introducao a sistemas de mensagerias com java](https://github.com/martageraldo/certificados/blob/main/certificados/Introducaoa%20sistemas%20de%20mensagerias%20com%20java.pdf)
+32. [Estruturas de Repetição de Arrays e loops](https://github.com/martageraldo/certificados/blob/main/certificados/Estruturas%20de%20Repeti%C3%A7%C3%A3o%20de%20Arrays%20e%20loops.pdf)
+33. [Introdução a PostgreSQL](https://github.com/martageraldo/certificados/blob/main/certificados/Introdu%C3%A7%C3%A3o%20a%20PostgreSQL.pdf)
+34. [Introdução aos conceitos de API e Clean Architecture](https://github.com/martageraldo/certificados/blob/main/certificados/Introdu%C3%A7%C3%A3o%20aos%20conceitos%20de%20API%20e%20Clean%20Architecture.pdf)
 
 
 
