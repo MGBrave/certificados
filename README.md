@@ -60,6 +60,7 @@
 32. [Estruturas de Repetição de Arrays e loops](https://github.com/martageraldo/certificados/blob/main/certificados/Estruturas%20de%20Repeti%C3%A7%C3%A3o%20de%20Arrays%20e%20loops.pdf)
 33. [Introdução a PostgreSQL](https://github.com/martageraldo/certificados/blob/main/certificados/Introdu%C3%A7%C3%A3o%20a%20PostgreSQL.pdf)
 34. [Introdução aos conceitos de API e Clean Architecture](https://github.com/martageraldo/certificados/blob/main/certificados/Introdu%C3%A7%C3%A3o%20aos%20conceitos%20de%20API%20e%20Clean%20Architecture.pdf)
+35. [Introdução prática em nuvem usando AWS](https://github.com/martageraldo/certificados/blob/main/certificados/Introdu%C3%A7%C3%A3o%20pr%C3%A1tica%20em%20nuvem%20usando%20AWS.pdf)
 
 
 
