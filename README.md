@@ -62,6 +62,11 @@
 34. [Introdução aos conceitos de API e Clean Architecture](https://github.com/martageraldo/certificados/blob/main/certificados/Introdu%C3%A7%C3%A3o%20aos%20conceitos%20de%20API%20e%20Clean%20Architecture.pdf)
 35. [Introdução prática em nuvem usando AWS](https://github.com/martageraldo/certificados/blob/main/certificados/Introdu%C3%A7%C3%A3o%20pr%C3%A1tica%20em%20nuvem%20usando%20AWS.pdf)
 36. [Trabalhando com Banco de Dados utilizando JDBC e JPA](https://github.com/martageraldo/certificados/blob/main/certificados/Trabalhando%20com%20Banco%20de%20Dados%20utilizando%20JDBC%20e%20JPA.pdf)
+37. [Sintaxe e operadores](https://github.com/martageraldo/certificados/blob/main/certificados/sintaxe%20e%20operadores.pdf)
+38. [Sintaxe básica em JavaScript](https://github.com/martageraldo/certificados/blob/main/certificados/sintaxe%20basica%20em%20javascript.pdf)
+39. [Introdução ao JavaScript](https://github.com/martageraldo/certificados/blob/main/certificados/sintaxe%20basica%20em%20javascript.pdf) 
+
+
 
 
 
@@ -88,4 +93,10 @@
 3. [Certificação em Liderança, Capacidade de Aprender e Resiliência](https://github.com/martageraldo/certificados/blob/main/certificados/Certificação%em%Liderança,%Capacidade%de%Aprender%e%Resiliência.pdf)
 4. [Empreendedorismo em Tempos de Pandemia](https://github.com/martageraldo/certificados/blob/main/certificados/Empreendedorismo%em%tempos%de%pandemia.pdf)
 5. [Linkedin](https://github.com/martageraldo/certificados/blob/main/certificados/Linkedin.pdf)
+
+
+## Idiomas
+
+
+
 
