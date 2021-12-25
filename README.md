@@ -67,6 +67,9 @@
 37. [Sintaxe e operadores](https://github.com/martageraldo/certificados/blob/main/certificados/sintaxe%20e%20operadores.pdf)
 38. [Sintaxe básica em JavaScript](https://github.com/martageraldo/certificados/blob/main/certificados/sintaxe%20basica%20em%20javascript.pdf)
 39. [Introdução ao JavaScript](https://github.com/martageraldo/certificados/blob/main/certificados/sintaxe%20basica%20em%20javascript.pdf) 
+40. [Variáveis e Tipos](https://github.com/martageraldo/certificados/blob/main/certificados/Vari%C3%A1veis%20e%20tipos.pdf) 
+41. [Estrutura de repetição Java](https://github.com/martageraldo/certificados/blob/main/certificados/Estruturas%20de%20Repeticao%20em%20java-Introducao.pdf)
+42. [Funções](https://github.com/martageraldo/certificados/blob/main/certificados/Fun%C3%A7%C3%B5es.pdf)
 
 
 
