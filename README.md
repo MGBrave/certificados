@@ -2,9 +2,8 @@
 
 ## Certificados Digital Innovation One - ![Image](https://github.com/martageraldo/certificados/blob/main/logo%20dio.jpg?raw=true)
 
-
-
-
+<br>
+<br>
 
 1. [Conceitos de Responsividade e experiência do usuário](https://github.com/martageraldo/certificados/blob/main/certificados/1conceitos%20responsividade%20e%20experiencia%20do%20usu%C3%A1rio.pdf)
 
@@ -64,19 +63,25 @@
 37. [Variáveis e Tipos](https://github.com/martageraldo/certificados/blob/main/certificados/Vari%C3%A1veis%20e%20tipos.pdf) 
 38. [Estrutura de repetição Java](https://github.com/martageraldo/certificados/blob/main/certificados/Estruturas%20de%20Repeticao%20em%20java-Introducao.pdf)
 39. [Funções](https://github.com/martageraldo/certificados/blob/main/certificados/Fun%C3%A7%C3%B5es.pdf)
+40. 
+
+<br>
 
 ## Bootcamps
 
+<br>
+
+1. [Java Developer - 88 horas](https://github.com/martageraldo/certificados/blob/main/certificados/bootcamps/Amdocs.pdf)
+2. [HTML Web Developer - 27 horas](https://github.com/martageraldo/certificados/blob/main/certificados/bootcamps/Frontend.pdf)
+3. 
 
 
-    
 
-
-
-
-    
+   <br>
 
 ## Desafios Dio
+
+<br>
 
 1. [Jogo da Cobrinha](https://github.com/martageraldo/certificados/blob/main/certificados/jogodacobrinhaDio.pdf)
 2. [Jogo da Velha](https://github.com/martageraldo/certificados/blob/main/certificados/jogoDaVelha.pdf)
@@ -84,8 +89,11 @@
 4. [Resolvendo desafios de Código em Java](https://github.com/martageraldo/certificados/blob/main/certificados/resolvendoDesafiosDeCodigoEmJava.pdf)
 
 
+<br>
 
 ## Diversos
+
+<br>
 
 1. [Recrutamento e Seleção de Alta Performance](https://github.com/martageraldo/certificados/blob/main/certificados/Recrutamento%e%Seleção%de%Alta%performance.png)
 2. [Produtividade Gestão de Tempo e Propósito](https://github.com/martageraldo/certificados/blob/main/certificados/Produtividade%Gestão%do%Tempo%e%Propósito.pdf)
@@ -96,9 +104,11 @@
 7. [Edição e tratamento de imagens](https://github.com/martageraldo/certificados/blob/main/certificados/4Edição_e_tratamento_de_imagens.pdf)
 8. [Ux e UI design](https://github.com/martageraldo/certificados/blob/main/certificados/21UX%e%UI%design%Tim.pdf)
 
+<br>
 
 ## Idiomas
 
+<br>
 
 
 
