@@ -63,7 +63,16 @@
 37. [Variáveis e Tipos](https://github.com/martageraldo/certificados/blob/main/certificados/Vari%C3%A1veis%20e%20tipos.pdf) 
 38. [Estrutura de repetição Java](https://github.com/martageraldo/certificados/blob/main/certificados/Estruturas%20de%20Repeticao%20em%20java-Introducao.pdf)
 39. [Funções](https://github.com/martageraldo/certificados/blob/main/certificados/Fun%C3%A7%C3%B5es.pdf)
-40. 
+40. [Abstraindo um Bootcamp usando POO - 2 horas ](https://github.com/martageraldo/certificados/blob/main/certificados/Abstraindo%20um%20Bootcamp%20usando%20POO2hr.pdf)
+41.  [Criando um Banco Digital com Java e Orientação a Objetos - 2 horas ](https://github.com/martageraldo/certificados/blob/main/certificados/Criando%20um%20Banco%20Digital%20com%20Java%20e%20Orienta%C3%A7%C3%A3o%20a%20Objetos.pdf)
+42.  [Desenvolvendo um sistema de gerenciamento de pessoas em API Rest com SpringBoot - 6 horas ](https://github.com/martageraldo/certificados/blob/main/certificados/Desenvolvendo%20um%20sistema%20de%20gerenciamento%20de%20pessoas%20em%20API%20Rest%20com%20SpringBoot%206%20hr.pdf) <br>
+43. [Entrada e Saída de Arquivos em Java  - 4 horas ](https://github.com/martageraldo/certificados/blob/main/certificados/Entrada%20e%20Sa%C3%ADda%20de%20Arquivos%20em%20Java%204hr.pdf)
+
+44. [Implementando Collections e Streams com Java - 6 horas](https://github.com/martageraldo/certificados/blob/main/certificados/Implementando%20Collections%20e%20Streams%20com%20Java.pdf)
+
+
+
+
 
 <br>
 
