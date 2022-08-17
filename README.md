@@ -116,7 +116,7 @@
 6. ✔️[Figma](https://github.com/martageraldo/certificados/blob/main/certificados/10Figma.pdf)
 7. ✔️[Edição e tratamento de imagens](https://github.com/martageraldo/certificados/blob/main/certificados/4Edição_e_tratamento_de_imagens.pdf)
 8. ✔️[Ux e UI design](https://github.com/martageraldo/certificados/blob/main/certificados/21UX%e%UI%design%Tim.pdf)
-
+9. ✔️[Profissional Adaptável:Inteligência emocional, finanças pessoais e liderança](https://github.com/martageraldo/certificados/blob/main/certificados/profissionalAdaptavel.pdf)
 <br>
 
 ## 🌐Idiomas
