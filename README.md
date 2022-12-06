@@ -121,6 +121,8 @@
 
 ## 🌐Idiomas
 
+1.✔️[Inglês](https://github.com/martageraldo/certificados/blob/main/certificados/languages/gavin%20ellit%20squad.pdf)
+
 <br>
 
 
