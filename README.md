@@ -120,8 +120,9 @@
 <br>
 
 ## 🌐Idiomas
-
-1.✔️[Inglês](https://github.com/martageraldo/certificados/blob/main/certificados/languages/gavin%20ellit%20squad.pdf)
+1.✔️[Conversation Class - Cambly - Currently]()<br>
+2.✔️[Inglês Básico ao avançado - Gavin´s Ellit Squad](https://github.com/martageraldo/certificados/blob/main/certificados/languages/gavin%20ellit%20squad.pdf)<br>
+3.✔️[Inglês Intermediário - Yázigi](https://github.com/martageraldo/certificados/blob/main/certificados/languages/inter2010.jpg)
 
 <br>
 
