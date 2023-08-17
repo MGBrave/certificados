@@ -61,7 +61,7 @@
 32. ✔️[Introdução prática em nuvem usando AWS](https://github.com/MGBrave/certificados/blob/main/certificados/Introdu%C3%A7%C3%A3o%20pr%C3%A1tica%20em%20nuvem%20usando%20AWS.pdf)
 33. ✔️[Trabalhando com Banco de Dados utilizando JDBC e JPA](https://github.com/MGBrave/certificados/blob/main/certificados/Trabalhando%20com%20Banco%20de%20Dados%20utilizando%20JDBC%20e%20JPA.pdf)
 34. ✔️[Sintaxe e operadores](https://github.com/MGBrave/certificados/blob/main/certificados/sintaxe%20e%20operadores.pdf)
-35. ✔️[Sintaxe básica em JavaScript](https://github.com/mMGBrave/certificados/blob/main/certificados/sintaxe%20basica%20em%20javascript.pdf)
+35. ✔️[Sintaxe básica em JavaScript](https://github.com/MGBrave/certificados/blob/main/certificados/sintaxe%20basica%20em%20javascript.pdf)
 36. ✔️[Introdução ao JavaScript](https://github.com/MGBrave/certificados/blob/main/certificados/sintaxe%20basica%20em%20javascript.pdf) 
 37. ✔️[Variáveis e Tipos](https://github.com/MGBrave/certificados/blob/main/certificados/Vari%C3%A1veis%20e%20tipos.pdf) 
 38. ✔️[Estrutura de repetição Java](https://github.com/MGBrave/certificados/blob/main/certificados/Estruturas%20de%20Repeticao%20em%20java-Introducao.pdf)
@@ -124,7 +124,7 @@
 
 ## 🌐Idiomas
 1.✔️[Conversation Class - Cambly - Currently]()<br>
-2.✔️[Inglês Básico ao avançado - Gavin´s Ellit Squad](https://github.com/MGBrave/certificados/blob/main/certificados/languages/gavin%20ellit%20squad.pdf)<br>
+2.✔️[Inglês Básico ao avançado - Gavin´s Ellit´s Squad](https://github.com/MGBrave/certificados/blob/main/certificados/languages/gavin%20ellit%20squad.pdf)<br>
 3.✔️[Inglês Intermediário - Yázigi](https://github.com/MGBrave/certificados/blob/main/certificados/languages/inter2010.jpg)
 
 <br>
