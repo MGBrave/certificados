@@ -124,7 +124,7 @@
 
 ## 🌐Idiomas
 1.✔️[Conversation Class - Cambly - Currently]()<br>
-2.✔️[Inglês Básico ao avançado - Gavin´s Ellit´s Squad](https://github.com/MGBrave/certificados/blob/main/certificados/languages/gavin%20ellit%20squad.pdf)<br>
+2.✔️[Inglês Básico ao avançado - Gavin´s Elite Squad](https://github.com/MGBrave/certificados/blob/main/certificados/languages/gavin%20ellit%20squad.pdf)<br>
 3.✔️[Inglês Intermediário - Yázigi](https://github.com/MGBrave/certificados/blob/main/certificados/languages/inter2010.jpg)
 
 <br>
