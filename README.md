@@ -78,7 +78,7 @@
 <br>
 
 1.✔️[Cybersecurity Essentials - Cisco Networking Academy](https://github.com/MGBrave/certificados/blob/main/certificados/MG%20Cibersecurity%20Essentials.pdf) <br>
-
+https://github.com/MGBrave/certificados/blob/main/certificados/logomgg/ciscoacademy.png?raw=true
 
 
 
