@@ -5,7 +5,7 @@
 [![Netlify Badge](https://img.shields.io/badge/-Netlify-00C7B7?style=social-square&logo=netlify&logoColor=white)](https://martageraldo.netlify.app/) [![Github Badge](https://img.shields.io/badge/GitHub--000?style=social&logo=Github&logoColor=&link=https://github.com/MGBrave)](https://github.com/MGBrave) [![card Badge](https://img.shields.io/badge/-Hotmail-0078D4??style=flat-square&logo=microsoft-outlook&logoColor=white&link=mailto:mggeraldo@hotmail.com)](mailto:mggeraldo@hotmail.com) 
 <br>
 
-## 🧠💻Certificados -  Digital Innovation One - ![Image](https://github.com/MGBrave/certificados/blob/main/logo%20dio.jpg?raw=true)  
+## 🧠💻Certificados - ![Image](https://github.com/MGBrave/certificados/blob/main/logo%20dio.jpg?raw=true)  
 <br>
 
 1. ✔️[Conceitos de Responsividade e experiência do usuário](https://github.com/MGBrave/certificados/blob/main/certificados/1conceitos%20responsividade%20e%20experiencia%20do%20usu%C3%A1rio.pdf)
@@ -70,9 +70,14 @@
 41. ✔️[Criando um Banco Digital com Java e Orientação a Objetos - 2 horas ](https://github.com/MGBrave/certificados/blob/main/certificados/Criando%20um%20Banco%20Digital%20com%20Java%20e%20Orienta%C3%A7%C3%A3o%20a%20Objetos.pdf)
 42. ✔️[Desenvolvendo um sistema de gerenciamento de pessoas em API Rest com SpringBoot - 6 horas ](https://github.com/MGBrave/certificados/blob/main/certificados/Desenvolvendo%20um%20sistema%20de%20gerenciamento%20de%20pessoas%20em%20API%20Rest%20com%20SpringBoot%206%20hr.pdf) <br>
 43. ✔️[Entrada e Saída de Arquivos em Java  - 4 horas ](https://github.com/MGBrave/certificados/blob/main/certificados/Entrada%20e%20Sa%C3%ADda%20de%20Arquivos%20em%20Java%204hr.pdf)
-
 44. ✔️[Implementando Collections e Streams com Java - 6 horas](https://github.com/MGBrave/certificados/blob/main/certificados/Implementando%20Collections%20e%20Streams%20com%20Java.pdf)
+<br>
 
+## Ⓜ️ Maratona
+
+<br>
+
+1.✔️[Cybersecurity Essentials - Cisco Networking Academy](https://github.com/MGBrave/certificados/blob/main/certificados/MG%20Cibersecurity%20Essentials.pdf) <br>
 
 
 
