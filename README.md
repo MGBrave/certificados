@@ -5,8 +5,11 @@
 [![Netlify Badge](https://img.shields.io/badge/-Netlify-00C7B7?style=social-square&logo=netlify&logoColor=white)](https://martageraldo.netlify.app/) [![Github Badge](https://img.shields.io/badge/GitHub--000?style=social&logo=Github&logoColor=&link=https://github.com/MGBrave)](https://github.com/MGBrave) [![card Badge](https://img.shields.io/badge/ProtonMail-8B89CC?style=social-square&logo=protonmail&logoColor=white)](mailto:mggeraldo@protonmail.com)
 <br>
 
-## 🧠💻Certificados - ![Image](https://github.com/MGBrave/certificados/blob/main/logo%20dio.jpg?raw=true)  
+## 🧠💻Certificados
 <br>
+
+![Image](https://github.com/MGBrave/certificados/blob/main/logo%20dio.jpg?raw=true)
+---
 
 1. ✔️[Conceitos de Responsividade e experiência do usuário](https://github.com/MGBrave/certificados/blob/main/certificados/1conceitos%20responsividade%20e%20experiencia%20do%20usu%C3%A1rio.pdf)
 
@@ -77,8 +80,10 @@
 
 <br>
 
-1.✔️[Cybersecurity Essentials - Cisco Networking Academy](https://github.com/MGBrave/certificados/blob/main/certificados/MG%20Cibersecurity%20Essentials.pdf) <br>
-https://github.com/MGBrave/certificados/blob/main/certificados/logomgg/ciscoacademy.png?raw=true
+1.✔️[Cybersecurity Essentials - Cisco Networking Academy](https://github.com/MGBrave/certificados/blob/main/certificados/MG%20Cibersecurity%20Essentials.pdf) 
+            <img src="https://github.com/MGBrave/certificados/blob/main/certificados/logomgg/ciscoacademy.png?raw=true" width="50" height="30"/>
+          <br>
+
 
 
 
